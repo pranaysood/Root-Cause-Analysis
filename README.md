@@ -60,7 +60,7 @@ Contributions are welcome, and we value your input! Here are some ways you can c
 ## Credits
 - Dr. Yan Liu: Project Supervisor
 - Gayathiri Elambooranan and Pranay Sood: Researchers and Developers
-- The PetShop Dataset Authors:** For providing a dataset specifically designed to aid in root cause analysis in microservices environments.
+- The PetShop Dataset Authors: For providing a dataset specifically designed to aid in root cause analysis in microservices environments.
 
 Special thanks to everyone who contributed to this project, providing insights, reviews, and testing.
 
