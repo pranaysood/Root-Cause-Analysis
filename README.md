@@ -45,15 +45,15 @@ Download the PetShop Dataset from [here](https://github.com/amazon-science/petsh
 ## Usage
 1. **Prepare the Data**:
     ```bash
-    python preprocess_data.py
+    python Datametrics_Preprocessing.py
     ```
 2. **Run the Analysis**:
     ```bash
-    python analyze.py
+    python run_llm.py
     ```
 3. **Evaluate the Models**:
     ```bash
-    python evaluate.py
+    python Path_Based_Evaluation.py
     ```
 
 ## Methodology
@@ -97,4 +97,4 @@ For more information or inquiries, please contact [Pranay Sood](https://www.link
 
 ---
 
-© 2024 Pranay Sood. All rights reserved.
+© 2024 Pranay Sood.
