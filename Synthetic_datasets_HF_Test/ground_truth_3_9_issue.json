@@ -1,0 +1,1 @@
+{"target_node": "StepFnStateMachine76D362E8-T67Tg48ke8oK_client", "root_cause_node": "AWS::StepFunctions::StateMachine", "issue_type": "latency", "severity": 0.1272064553684623, "affected_column": "latency_p99", "timestamp": "2024-05-30 04:28:48.148846", "paths": ["StepFnStateMachine76D362E8-T67Tg48ke8oK_client", "AWS::StepFunctions::StateMachine"]}

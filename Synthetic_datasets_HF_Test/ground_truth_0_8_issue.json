@@ -1,0 +1,1 @@
+{"target_node": "petlistadoptions_client", "root_cause_node": "petlistadoptions_AWS::ECS::Fargate", "issue_type": "latency", "severity": 0.0984176109295481, "affected_column": "latency_p90", "timestamp": "2024-05-30 04:28:37.068244", "paths": ["petlistadoptions_client", "petlistadoptions_AWS::ECS::Fargate", "PetSearch_AWS::ECS::Fargate", "petInfo_AWS::DynamoDB::Table"]}

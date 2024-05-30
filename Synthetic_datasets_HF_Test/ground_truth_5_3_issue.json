@@ -1,0 +1,1 @@
+{"target_node": "PetAdoptionStatusUpdater/prod_AWS::ApiGateway::Stage", "root_cause_node": "lambdastatusupdater_AWS::Lambda", "issue_type": "latency", "severity": 0.09360527024205124, "affected_column": "availability_Average", "timestamp": "2024-05-30 04:28:54.340664", "paths": ["PetAdoptionStatusUpdater/prod_AWS::ApiGateway::Stage", "lambdastatusupdater_AWS::Lambda"]}

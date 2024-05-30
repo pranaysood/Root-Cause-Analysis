@@ -1,0 +1,1 @@
+{"target_node": "PetSite", "root_cause_node": "payforadoption_AWS::ECS::Container", "issue_type": "latency", "severity": 0.09144941227533009, "affected_column": "availability_Average", "timestamp": "2024-05-30 04:28:43.647417", "paths": ["PetSite", "payforadoption_AWS::ECS::Container", "amazon.com_remote"]}

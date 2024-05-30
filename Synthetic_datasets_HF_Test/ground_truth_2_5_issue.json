@@ -1,0 +1,1 @@
+{"target_node": "lambda_step_readDDB_AWS::Lambda::Function", "root_cause_node": "lambda_step_readDDB_AWS::Lambda", "issue_type": "latency", "severity": 0.10462360699005589, "affected_column": "latency_p50", "timestamp": "2024-05-30 04:28:43.009997", "paths": ["AWS::StepFunctions::StateMachine", "lambda_step_readDDB_AWS::Lambda", "lambda_step_readDDB_AWS::Lambda::Function"]}

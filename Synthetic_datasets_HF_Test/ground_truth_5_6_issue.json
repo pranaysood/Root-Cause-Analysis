@@ -1,0 +1,1 @@
+{"target_node": "payforadoption_AWS::ECS::Container", "root_cause_node": "amazon.com_remote", "issue_type": "latency", "severity": 0.07972195357325294, "affected_column": "latency_Average", "timestamp": "2024-05-30 04:28:55.259361", "paths": ["payforadoption_AWS::ECS::Container", "amazon.com_remote"]}

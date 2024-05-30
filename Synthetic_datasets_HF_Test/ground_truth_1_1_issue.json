@@ -1,0 +1,1 @@
+{"target_node": "https://sqs.us-west-2.amazonaws.com/Services-sqspetadoption_AWS::SQS::Queue", "root_cause_node": "PetSite", "issue_type": "latency", "severity": 0.11685095178331875, "affected_column": "availability_Average", "timestamp": "2024-05-30 04:28:38.341991", "paths": ["PetSite", "https://sqs.us-west-2.amazonaws.com/Services-sqspetadoption_AWS::SQS::Queue"]}

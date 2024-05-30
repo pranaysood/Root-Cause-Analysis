@@ -1,0 +1,1 @@
+{"target_node": "servi-searc.us-west-2.elb.amazonaws.com_remote", "root_cause_node": "PetSite", "issue_type": "latency", "severity": 0.05468490915272692, "affected_column": "availability_Average", "timestamp": "2024-05-30 04:28:41.480669", "paths": ["PetSite", "servi-searc.us-west-2.elb.amazonaws.com_remote"]}

@@ -1,0 +1,1 @@
+{"target_node": "execute-api.us-west-2.amazonaws.com_remote", "root_cause_node": "payforadoption_AWS::ECS::Container", "issue_type": "latency", "severity": 0.08779568695662976, "affected_column": "latency_p90", "timestamp": "2024-05-30 04:28:34.323727", "paths": ["PetSite", "payforadoption_AWS::ECS::Container", "execute-api.us-west-2.amazonaws.com_remote"]}

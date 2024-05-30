@@ -1,0 +1,1 @@
+{"target_node": "lambda_step_priceLessThan55", "root_cause_node": "Evidently_AWS::Evidently", "issue_type": "latency", "severity": 0.12881554689560457, "affected_column": "availability_Average", "timestamp": "2024-05-30 04:28:42.088109", "paths": ["lambda_step_priceLessThan55", "Evidently_AWS::Evidently"]}

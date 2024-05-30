@@ -1,0 +1,1 @@
+{"target_node": "petlistadoptions_AWS::ECS::Fargate", "root_cause_node": "PetSearch_AWS::ECS::Fargate", "issue_type": "latency", "severity": 0.12499277438512635, "affected_column": "latency_p95", "timestamp": "2024-05-30 04:28:55.903415", "paths": ["petlistadoptions_AWS::ECS::Fargate", "PetSearch_AWS::ECS::Fargate"]}

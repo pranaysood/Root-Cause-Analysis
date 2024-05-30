@@ -1,0 +1,1 @@
+{"target_node": "PetSite", "root_cause_node": "PetAdoptionStatusUpdater/prod_AWS::ApiGateway::Stage", "issue_type": "latency", "severity": 0.07007299628278049, "affected_column": "latency_p95", "timestamp": "2024-05-30 04:28:42.402161", "paths": ["PetSite", "payforadoption_AWS::ECS::Container", "PetAdoptionStatusUpdater/prod_AWS::ApiGateway::Stage"]}

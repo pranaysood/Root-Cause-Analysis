@@ -1,0 +1,1 @@
+{"target_node": "PetSearch_client", "root_cause_node": "AWSSimpleSystemsManagement_AWS::AWSSimpleSystemsManagement", "issue_type": "latency", "severity": 0.12319633532822974, "affected_column": "latency_p50", "timestamp": "2024-05-30 04:28:54.020557", "paths": ["PetSearch_client", "PetSearch_AWS::ECS::Fargate", "AWSSimpleSystemsManagement_AWS::AWSSimpleSystemsManagement"]}

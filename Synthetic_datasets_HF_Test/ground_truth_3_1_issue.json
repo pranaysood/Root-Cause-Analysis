@@ -1,0 +1,1 @@
+{"target_node": "SimpleNotificationService_AWS::SimpleNotificationService", "root_cause_node": "PetSite", "issue_type": "latency", "severity": 0.04831939305051447, "affected_column": "latency_Average", "timestamp": "2024-05-30 04:28:45.167174", "paths": ["PetSite", "SimpleNotificationService_AWS::SimpleNotificationService"]}

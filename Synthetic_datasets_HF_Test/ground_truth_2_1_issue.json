@@ -1,0 +1,1 @@
+{"target_node": "petlistadoptions_AWS::ECS::Fargate", "root_cause_node": "petlistadoptions_client", "issue_type": "latency", "severity": 0.11930977620190578, "affected_column": "latency_p50", "timestamp": "2024-05-30 04:28:41.789565", "paths": ["petlistadoptions_client", "petlistadoptions_AWS::ECS::Fargate", "Servi-searc.us-west-2.elb.amazonaws.com_remote"]}

@@ -1,0 +1,1 @@
+{"target_node": "PetSite", "root_cause_node": "lambda_step_readDDB", "issue_type": "latency", "severity": 0.05571159376442538, "affected_column": "availability_Average", "timestamp": "2024-05-30 04:28:34.793175", "paths": ["PetSite", "AWS::StepFunctions::StateMachine", "lambda_step_readDDB_AWS::Lambda", "lambda_step_readDDB_AWS::Lambda::Function", "lambda_step_readDDB"]}

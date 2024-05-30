@@ -1,0 +1,1 @@
+{"target_node": "AWS::StepFunctions::StateMachine", "root_cause_node": "lambda_step_priceGreaterThan55_AWS::Lambda", "issue_type": "latency", "severity": 0.10504064708582662, "affected_column": "latency_p99", "timestamp": "2024-05-30 04:28:49.945874", "paths": ["AWS::StepFunctions::StateMachine", "lambda_step_priceGreaterThan55_AWS::Lambda"]}

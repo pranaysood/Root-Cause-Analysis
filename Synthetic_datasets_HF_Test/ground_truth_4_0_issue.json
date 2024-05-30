@@ -1,0 +1,1 @@
+{"target_node": "payforadoption_AWS::ECS::Container", "root_cause_node": "PetSite", "issue_type": "latency", "severity": 0.04262512180021631, "affected_column": "latency_Average", "timestamp": "2024-05-30 04:28:48.958829", "paths": ["PetSite", "payforadoption_AWS::ECS::Container", "adoptions@services-database.us-west-2.rds.amazonaws.com_Database::SQL"]}

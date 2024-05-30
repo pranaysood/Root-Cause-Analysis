@@ -1,0 +1,1 @@
+{"target_node": "petlistadoptions_AWS::ECS::Fargate", "root_cause_node": "PGSQL Query_remote", "issue_type": "latency", "severity": 0.12317596558218136, "affected_column": "latency_p99", "timestamp": "2024-05-30 04:28:54.660059", "paths": ["petlistadoptions_AWS::ECS::Fargate", "PGSQL Query_remote"]}

@@ -1,0 +1,1 @@
+{"target_node": "lambda_step_readDDB_AWS::Lambda::Function", "root_cause_node": "SSM_AWS::SSM", "issue_type": "latency", "severity": 0.06108171758330312, "affected_column": "latency_Average", "timestamp": "2024-05-30 04:28:38.043617", "paths": ["lambda_step_readDDB_AWS::Lambda::Function", "lambda_step_readDDB", "SSM_AWS::SSM"]}
